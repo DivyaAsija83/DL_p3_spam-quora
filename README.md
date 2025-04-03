@@ -53,6 +53,3 @@ Contributing
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request with improvements.
 
-License
-
-This project is licensed under the MIT License.
